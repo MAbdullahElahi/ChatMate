@@ -42,7 +42,7 @@ month = dates.month
 day = dates.day
 
 # Access the api key
-openai.api_key = "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"  
+openai.api_key = ""  
 
 # Apperance Mode Settings
 set_appearance_mode("system")
